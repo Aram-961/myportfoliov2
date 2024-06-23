@@ -85,8 +85,8 @@ export const projects = [
     des: 'Find your Oasis. Build and fund projects, connect with your community and reap exclusive rewards.',
     img: '/image.png',
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
-    link: '/ui.yoom.com',
-    href: '',
+    link: '/sandwalk.co',
+    href: 'https://sandwalk.co',
   },
   // {
   //   id: 3,
